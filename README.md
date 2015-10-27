@@ -53,6 +53,37 @@ If the newest feature is not in these libraries it probably cannot be back-porte
 
 
 
+Android Open Source Contributions
+---------------------------------
+
+I like most android advance application developers contribute to the Android AOSP project and these
+following 3rd-party libraries:
+
+
+
+
+Contacting Me
+-------------
+
+Rules for contacting me:
+
+1. Not a recruiter but a start-up founder or co-founder
+
+2. If start-up than its fully funded at $1 Million or more in seed capital.
+
+3. If a Chicago start-up than willing to travel to my NorthWest Indiana location and discuss over a
+paid subway meal and discuss a relocation.
+
+4. If not a Chicago start-up than willing to allow me to do remote and enter a lengthy and informative
+discussion about your android application development needs.
+
+5. It has to be android java application development not anything touching C/C++ or
+embedded development.
+
+If you can follow those rules than you can email me at:
+
+fred dot grott AT gmail dot com
+
 
 
 
