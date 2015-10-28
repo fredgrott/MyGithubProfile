@@ -6,13 +6,55 @@ java application developer. So as to act as a guide to those start-up co-founder
 android developer I have created this git repo and readme to point out some of my git repos that should
 be closely examined by your engineering staff that hires android developers such as your CTO, etc.
 
-I am also have a top 17% stactoverflow rating for using my java and android skills and experience in
+I am also have a top 17% stactoverflow rating:
+
+[StackOverflow Profile](http://stackoverflow.com/users/237740/fred-grott)
+
+for using my java and android skills and experience in
 answering other developers questions about android development using java.
+
+My Medium Android Development Articles can be found at my medium profile:
+
+[Medium Profile](https://medium.com/@fredgrott)
+
+And my Android Development blog is at:
+
+[My Android Development blog](http://grottworkshop.blogspot.com)
+
+And I do upload android development slides to:
+
+[SlideShare Profile](http://www.slideshare.net/shareme)
+
+[SpeakerDeck Profile](https://speakerdeck.com/fredgrott)
+
+Why portfolio this way?
+
+The biggest part of getting the android UX of an application and the android application design right
+is the big thing under the surface like an iceberg such as the actual java skills and knowledge and the
+android skills and knowledge and that very important set of manual habits and java development best
+practices.
+
+A few portfolio apps only teases you without providing a concrete way to establish that the android developer
+or android application engineer in fact follows those practices. Now if someone has a system to ensure that
+why not show off that system? Than you would emphatically know, right?
+
+The GrottWorkSpace System
+=========================
+
+The GrottWorkSpace system is collection of manual java and android best practices, tools, and libraries
+that together form a set of processes that ensure that a quality mobile android java applicattion is
+produced that is easy to test and easy to maintain and update. The following detailed libraries, tools,
+and practices compose of that system.
 
 The Gradle Build System in the Android Context
 ----------------------------------------------
 
-[GWSDroidGradle](http://github.com/shareme/GWSDroidGradle)
+Without a dependable build you cannot as an android application engineer predict milestone builds or
+steps in the development process.
+
+GWSDroidGradle
+--------------
+[GWSDroidGradle](https://github.com/shareme/GWSDroidGradle)
 
 This is my android specific gradle set-up that I keep current with the gradle plugins and debug tool
 set up that I use to develop android applications. In the readme you will find a detailed implementation
@@ -26,6 +68,35 @@ each git repo describe the implementation involved.
 
 
 
+
+GWSWakeUp
+---------
+
+[GWSWakeUp](https://github.com/shareme/GWSWakeUp)
+
+This library allows or enables the device to wake up as the app is pushed to the device or emulator
+for testing.
+
+GWSDroidViewServer
+------------------
+
+[GWSDroidViewServer](https://github.com/shareme/GWSDroidViewServer)
+
+GWSDroidViewServer is a library to enable a debug build of an android application to hook into the
+Hierarchy View tool of the android sdk so that we can examine the view tree structure of the application.
+
+GWSDroidInsUtil
+---------------
+
+[GWSDroidInsUtil](https://github.com/shareme/GWSDroidInsUtil)
+
+The GWSDroidInsUtil library contains some classes that set up a testing rule to run a test multiple times
+to dela with a flaky test and a class to assist in disabling system animations during test and to re-enable
+system animations once testing is completed.
+
+
+
+
 Common App Libraries
 --------------------
 
@@ -33,11 +104,102 @@ I have created some common app libraries as it reduces the boilerplate I have to
 application I create. Such things as a custom type loader library, material colors, caches, etc. Implementation
 description block in each git repo describes the implementation involved.
 
-[GWSAndroidUUID](http://github.com/shareme/GWSAndroidUUID)
+GWSAndroidUUID
+--------------
+[GWSAndroidUUID](https://github.com/shareme/GWSAndroidUUID)
 
 Creates a factory class to load a shared-prefs stored UUID or create a new one in somewhat secure fashion in
 protecting the androidID value. An UUID finds its use in we need to track application errors and crash
 statistics by user and user usage by UUID value.
+
+GWSCache
+--------
+
+[GWSCache](https://github.com/shareme/GWSCache)
+
+GWSCache is a library to enable to setting of an application wide cache in the android application that
+happens to be two-level, in memory and in disk-file.
+
+GWSColors
+---------
+
+[GWSColours](https://github.com/shareme/GWSColours)
+
+The android support libs v7 privatize resource color names so we as developers are not suppose to use them
+or rely upon them. Thus instead I extended the Colours Android library to allow the setting of all the
+material colours and as a bonus one gets to use the helper methods of the Colours Android library for free.
+
+GWSCacheFragment
+----------------
+
+[GWSCacheFragment](https://github.com/shareme/GWSCacheFragment)
+
+When a UI component called View-Pager is used in the android application to switch between multiple pages
+we usually have to cache those pages and this library enables me to accomplish that goal.
+
+GWSEasing
+---------
+
+[GWSEasing](https://github.com/shareme/GWSEasing)
+
+Easing animation functions were not fully supplied until api 18 level and thus I use this library in api
+levels lower than 18 to supply easing animation functions for UI element animations.
+
+GWSIndiaInk
+------------
+
+[GWSIndiaInk](https://github.com/shareme/GWSIndiaInk)
+
+GWSUIndiaInk is the library I created to enable me to load custom fonts for an android application.
+
+GWSSpannable
+------------
+
+[GWSSpannable](https://github.com/shareme/GWSSpannable)
+
+Its easier to do spannable than always extend text view and so I created this library to use the collection
+spannables that I have created and collected.
+
+GWSSytemUI
+----------
+
+[GWSSystemUI](https://github.com/shareme/GWSSystemUI)
+
+A system UI element helper set of classes.
+
+GWSOttoUtils
+------------
+
+[GWSOttoUtils](https://github.com/shareme/GWSOttoUtils)
+
+I use the Otto even bus system to allow me to de-couple android application components and these helper
+classes he me set up a proper event bus.
+
+GWSEula
+--------
+
+[GWSEula](https://github.com/shareme/GWSEula)
+
+In the USA and EU the legal environment requires all software applications to have an Eula so that the
+application development company is protected, hence this library.
+
+GWSLicenseThis
+--------------
+
+[GWSLicenseThis]
+
+Library to allow displaying the application license to the user on first start of the application.
+
+GWSVMUtils
+----------
+
+[GWSVMUtils]
+
+Simplified ViewModel and State Machine classes to make it easier to use a ModelViewViewModel solution in
+application implementations.
+
+
+
 
 
 
@@ -51,6 +213,206 @@ implementation description in the readme and a demo signed apk app file in the d
 If the newest feature is not in these libraries it probably cannot be back-ported.
 
 
+GWSArcAnimations
+----------------
+
+[GWSArcAnimations]
+
+GWSArcLayout
+------------
+
+[GWSArcLayout]
+
+GWSBetterRelativeLayout
+-----------------------
+
+[GWSBetterRelativeLayout]
+
+GWSBlurringView
+---------------
+
+[GWSBlurringView]
+
+
+
+
+
+
+GWSChips
+---------
+
+[GWSChips]
+
+
+GWSDiscreteSeekBar
+------------------
+
+[GWSDiscreteSeekBar]
+
+GWSDiscrollView
+---------------
+
+[GWSDiscrollView]
+
+GWSKenBurnsView
+---------------
+
+[GWSKenBurnsView]
+
+GWSLDialogs
+-----------
+
+[GWSLDialogs]
+
+GWSListViewAnimations
+---------------------
+
+[GWSListViewAnimations]
+
+GWSMaterialCAB
+---------------
+
+[GWSMaterialCAB]
+
+GWSMaterialCalendarView
+-----------------------
+
+[GWSMaterialCalendarView]
+
+GWSMaterialDialogs
+------------------
+
+[GWSMaterialDialogs]
+
+
+GWSMaterialDrawer
+------------------
+
+[GWSMaterialDrawer]
+
+GWSMaterialEdit
+---------------
+
+[GWSMaterialEdit]
+
+GWSMaterialMenu
+---------------
+
+[GWSMaterialMenu]
+
+GWSMaterialPreference
+---------------------
+
+[GWSMaterialPreference]
+
+GWSMaterialProgressBar
+----------------------
+
+[GWSMaterialProgressBar]
+
+GWSMaterialRangeBar
+-------------------
+
+[GWSMaterialRangeBar]
+
+GWSMaterialSpinner
+------------------
+
+[GWSMaterialSpinner]
+
+GWSMultiStateView
+------------------
+
+[GWSMaterialStateView]
+
+GWSObservableScroll
+-------------------
+
+[GWSObservableScroll]
+
+GWSPagerSlidingTabStrip
+-----------------------
+
+[GWSPagerSlidingTabStrip]
+
+GWSPanningView
+--------------
+
+[GWSPanningView]
+
+GWSParallelMotion
+------------------
+
+[GWSParallelMotion]
+
+GWSReveal
+---------
+
+[GWSReveal]
+
+GWSRoundedImageView
+--------------------
+
+[GWSRoundedImageView]
+
+GWSShimmer
+-------------
+
+[GWSShimmer]
+
+GWSStickyHeadersRV
+-------------------
+
+[GWSStickyHeadersRV]
+
+GWSStickyListHeaders
+---------------------
+
+[GWSStickyListHeaders]
+
+
+GWSSVGProgressView
+-------------------
+
+[GWSSVGProgressView]
+
+GWSSwipeToDismiss
+-----------------
+
+[GWSSwipeToDismiss]
+
+GWSTiltEffect
+--------------
+
+[GWSTiltEffect]
+
+GWSTwoWayView
+-------------
+
+[GWSTwoWayView]
+
+GWSVelocityScroller
+--------------------
+
+[GWSVelocityScroller]
+
+GWSVelocityViewPager
+----------------------
+
+[GWSVelocityViewPager]
+
+GWSViewPagerTrans
+-----------------
+
+[GWSViewPagerTrans]
+
+GWSZDepthShadow
+----------------
+
+[GWSZDepthShadow]
+
+
+
 
 
 Android Open Source Contributions
@@ -61,6 +423,41 @@ following 3rd-party libraries:
 
 
 
+Best Practices Followed
+------------------------
+
+1. Keeping things on the proper thread, inflate and resource stuff is always on the UI thread while
+   some longer running shared prefs editing we try to have on a non ui thread.
+
+2. Make sure that all the stuff that could be transformed to using generics is in fact done and if
+   not than mark it with an supper warnings unchecked to let other devs know that this process was completed.
+
+3. Mark all depreciated classes and methods as supper warnings depreciated as in apps you have to
+   do this anyway as the proguard will not obfuscate without it completed.
+
+4. Using patterns and compound patterns where appropriate to structure the library or application in
+   a way makes it more modular and efficient.
+
+5. Only have logs showing in debug and not production builds as the only thing that should in
+   application logs production wise is the crash stuff and that should be a rarity not something
+   that happens often.
+
+6. Using different methods and tools to de-couple classes, modules, etc so that we can more
+   effectively test using instrumented testing and functional testing.
+
+7. Reading Android AOSP project sources as the Google Engineers put helpful comments and from time
+   to time find stuff that should be back proted to use on older versions of the android OS as well
+   new ways to re-use some classes and methods.
+
+8. Making sure to have things executed on the proper step within the Application, Activity, Fragment,
+   and View life-cycles.
+
+9. Applying color theory, typography and graphics design in an design and brand marketing appropriate
+   manner in the android UX design context and Google Material design context.
+
+10. Being aware of what the limitations to the tools and libraries used in my android development
+    stack as it pertains to solving the problems-at-hand in developing a specific android application.
+
 
 Contacting Me
 -------------
@@ -69,20 +466,29 @@ Rules for contacting me:
 
 1. Not a recruiter but a start-up founder or co-founder
 
-2. If start-up than its fully funded at $1 Million or more in seed capital.
+2. If start-up than its seed capital 'run-way' is fully funded at $1 Million or more.
 
 3. If a Chicago start-up than willing to travel to my NorthWest Indiana location and discuss over a
-paid subway meal and discuss a relocation.
+   paid subway meal and discuss a relocation.
 
-4. If not a Chicago start-up than willing to allow me to do remote and enter a lengthy and informative
-discussion about your android application development needs.
+4. If not a Chicago start-up than willing to allow me to do remote(as I prefer not to devote 50%
+   of my net income towards extremely high apartment rents and leasing) and enter a lengthy and informative
+   discussion about your android application development needs.
 
 5. It has to be android java application development not anything touching C/C++ or
-embedded development.
+   embedded development. If you really want embedded and cannot find any one than its  somewhat 200%
+   of the android java application market price at 1099 with a cash advance.
+
+6. I only find qualified android developers for recruitment purposes on paid-commission re-using tools
+   and processes from my GrottWorkSpace system and the pricing starts at $95,000 per developer needed.
+   Please do not ask for freebies.
+
+7. Obviously, do not pull the recruiter crap and seek my Google-Voice-Number to call me daily to
+   inquire about recruiting me as my quiet coding time is somewhat important to me.
 
 If you can follow those rules than you can email me at:
 
-fred dot grott AT gmail dot com
+fred DOT grott AT gmail DOT com
 
 
 
