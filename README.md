@@ -6,12 +6,16 @@ java application developer. So as to act as a guide to those start-up co-founder
 android developer I have created this git repo and readme to point out some of my git repos that should
 be closely examined by your engineering staff that hires android developers such as your CTO, etc.
 
-I am also have a top 17% stactoverflow rating:
+I am also have a top 17% StackOverflow rating:
 
 [StackOverflow Profile](http://stackoverflow.com/users/237740/fred-grott)
 
 for using my java and android skills and experience in
 answering other developers questions about android development using java.
+The SO 17% top rating for android developer questions is what most senior android developers have
+if they are a member of StackOverflow. And just like other senior android developers I have developed
+libraries, tools, and processes that build on top of all the java, GUI, and android best practices to
+ensure quality java code and quality android applications developed.
 
 My Medium Android Development Articles can be found at my medium profile:
 
@@ -26,6 +30,16 @@ And I do upload android development slides to:
 [SlideShare Profile](http://www.slideshare.net/shareme)
 
 [SpeakerDeck Profile](https://speakerdeck.com/fredgrott)
+
+While I do not answer developer questions directly by email, I do answer questions posed as the
+following places:
+
+[Quora Profile](http://www.quora.com/Fred-Grott)
+
+[Reddit Profile](http://www.reddit.com./user/fredgrott/)
+
+
+
 
 Why portfolio this way?
 
@@ -45,6 +59,11 @@ The GrottWorkSpace system is collection of manual java and android best practice
 that together form a set of processes that ensure that a quality mobile android java applicattion is
 produced that is easy to test and easy to maintain and update. The following detailed libraries, tools,
 and practices compose of that system.
+
+
+
+
+
 
 The Gradle Build System in the Android Context
 ----------------------------------------------
@@ -198,7 +217,13 @@ GWSVMUtils
 Simplified ViewModel and State Machine classes to make it easier to use a ModelViewViewModel solution in
 application implementations.
 
+GWSDroidUtil
+------------
 
+[GWSDroidUtil]
+
+Utility classes that do not fit any other category that get used to reduce boilerplate classes and methods in
+android application.
 
 
 
@@ -218,20 +243,28 @@ GWSArcAnimations
 
 [GWSArcAnimations]
 
+Helps me create arc transitions.
+
 GWSArcLayout
 ------------
 
 [GWSArcLayout]
+
+An arc layout
 
 GWSBetterRelativeLayout
 -----------------------
 
 [GWSBetterRelativeLayout]
 
+A better relative layout
+
 GWSBlurringView
 ---------------
 
 [GWSBlurringView]
+
+A blurring view.
 
 
 
@@ -243,46 +276,68 @@ GWSChips
 
 [GWSChips]
 
+Displays little chips as an edit text view is filled out by the user
+
 
 GWSDiscreteSeekBar
 ------------------
 
 [GWSDiscreteSeekBar]
 
+Its a discrete slider just like in the Google material Design docs.
+
+
+
 GWSDiscrollView
 ---------------
 
 [GWSDiscrollView]
+
+Widgets appear by fade or other transittions as you scorll.
+
 
 GWSKenBurnsView
 ---------------
 
 [GWSKenBurnsView]
 
+Provides an extension to image view to enable the Ken Burns effect.
+
 GWSLDialogs
 -----------
 
 [GWSLDialogs]
+
+L-style dialogs
 
 GWSListViewAnimations
 ---------------------
 
 [GWSListViewAnimations]
 
+List view animations
+
 GWSMaterialCAB
 ---------------
 
 [GWSMaterialCAB]
+
+A material contextual action bar
+
 
 GWSMaterialCalendarView
 -----------------------
 
 [GWSMaterialCalendarView]
 
+A Material design back port of Android's CalendarView.
+
 GWSMaterialDialogs
 ------------------
 
 [GWSMaterialDialogs]
+
+Makes building material styled dialogs easier.
 
 
 GWSMaterialDrawer
@@ -290,55 +345,82 @@ GWSMaterialDrawer
 
 [GWSMaterialDrawer]
 
+Makes it easier to build materail styled drawers.
+
 GWSMaterialEdit
 ---------------
 
 [GWSMaterialEdit]
+
+A material styled edit text view
 
 GWSMaterialMenu
 ---------------
 
 [GWSMaterialMenu]
 
+Morphing Android menu, back, dismiss and check buttons
+
+
 GWSMaterialPreference
 ---------------------
 
 [GWSMaterialPreference]
+
+
 
 GWSMaterialProgressBar
 ----------------------
 
 [GWSMaterialProgressBar]
 
+Material design ProgressBar with consistent appearance.
+
 GWSMaterialRangeBar
 -------------------
 
 [GWSMaterialRangeBar]
+
+Material styled rangebar.
 
 GWSMaterialSpinner
 ------------------
 
 [GWSMaterialSpinner]
 
+This library provides you a Spinner with the Material style.
+
 GWSMultiStateView
 ------------------
 
-[GWSMaterialStateView]
+[GWSMultiStateView]
+
+Shows loading, error, etc states in a view so that user has some feedback about the progress of the
+application.
+
+
 
 GWSObservableScroll
 -------------------
 
 [GWSObservableScroll]
 
+
+
 GWSPagerSlidingTabStrip
 -----------------------
 
 [GWSPagerSlidingTabStrip]
 
+Interactive paging indicator widget material styled.
+
 GWSPanningView
 --------------
 
 [GWSPanningView]
+
+PanningView is a library which implements the animated background in the now playing screen of the Play Music app.
+
 
 GWSParallelMotion
 ------------------
@@ -349,6 +431,8 @@ GWSReveal
 ---------
 
 [GWSReveal]
+
+The Reveal feature back-ported.
 
 GWSRoundedImageView
 --------------------
@@ -375,6 +459,8 @@ GWSSVGProgressView
 -------------------
 
 [GWSSVGProgressView]
+
+A different out-look on what a progress view should do as far as branding.
 
 GWSSwipeToDismiss
 -----------------
@@ -406,10 +492,61 @@ GWSViewPagerTrans
 
 [GWSViewPagerTrans]
 
+View pager transitions.
+
 GWSZDepthShadow
 ----------------
 
 [GWSZDepthShadow]
+
+Z-Depth Shadow feature back-ported.
+
+
+Other 3rd-party Tools and Libraries Used
+----------------------------------------
+
+[Hugo]()
+
+[LeakCanary](https://github.com/square/leakcanary)
+
+[Otto](http://github.com/square/otto)
+
+[Picasso](http://square.github.io/picasso/)
+
+[OkHttp]()
+
+[ProjectLombok]()
+
+[Timber](http://github.com/JakeWharton/timber)
+
+[Butterknife](http://jakewharton.github.io/butterknife/)
+
+[Spoon]()
+
+[Renderers]()
+
+[Espresso]()
+
+[Mockito]()
+
+[Madge]()
+
+[AssertJForAndroid]()
+
+[AssertJ]()
+
+[RxJava]()
+
+[Retro-Lambda]()
+
+[View-inspector(Scalpel and Probe)]()
+
+[Kotlin]()
+
+[Gradle]()
+
+[Groovy]()
+
 
 
 
