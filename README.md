@@ -286,7 +286,7 @@ application implementations.
 GWSDroidUtil
 ------------
 
-[GWSDroidUtil]
+[GWSDroidUtil](https://github.com/shareme/GWSDroidUtil)
 
 Utility classes that do not fit any other category that get used to reduce boilerplate classes and methods in
 android application.
@@ -307,28 +307,28 @@ If the newest feature is not in these libraries it probably cannot be back-porte
 GWSArcAnimations
 ----------------
 
-[GWSArcAnimations]
+[GWSArcAnimations](https://github.com/shareme/GWSArcAnimations)
 
 Helps me create arc transitions.
 
 GWSArcLayout
 ------------
 
-[GWSArcLayout]
+[GWSArcLayout](https://github.com/shareme/GWSArclayout)
 
 An arc layout
 
 GWSBetterRelativeLayout
 -----------------------
 
-[GWSBetterRelativeLayout]
+[GWSBetterRelativeLayout](https://github.com/shareme/GWSBetterRelativeLayout)
 
 A better relative layout
 
 GWSBlurringView
 ---------------
 
-[GWSBlurringView]
+[GWSBlurringView](https://github.com/shareme/GWSBlurringView)
 
 A blurring view.
 
@@ -340,7 +340,7 @@ A blurring view.
 GWSChips
 ---------
 
-[GWSChips]
+[GWSChips](https://github.com/shareme/GWSChips)
 
 Displays little chips as an edit text view is filled out by the user
 
@@ -348,7 +348,7 @@ Displays little chips as an edit text view is filled out by the user
 GWSDiscreteSeekBar
 ------------------
 
-[GWSDiscreteSeekBar]
+[GWSDiscreteSeekBar](https://github.com/GWSDiscreteSeekBar)
 
 Its a discrete slider just like in the Google material Design docs.
 
@@ -357,7 +357,7 @@ Its a discrete slider just like in the Google material Design docs.
 GWSDiscrollView
 ---------------
 
-[GWSDiscrollView]
+[GWSDiscrollView](https://github.com/shareme/GWSDiscrollView)
 
 Widgets appear by fade or other transittions as you scorll.
 
@@ -365,28 +365,28 @@ Widgets appear by fade or other transittions as you scorll.
 GWSKenBurnsView
 ---------------
 
-[GWSKenBurnsView]
+[GWSKenBurnsView](https://github.com/shareme/GWSKenBurnsView)
 
 Provides an extension to image view to enable the Ken Burns effect.
 
 GWSLDialogs
 -----------
 
-[GWSLDialogs]
+[GWSLDialogs](https://github.com/shareme/GWSLDialogs)
 
 L-style dialogs
 
 GWSListViewAnimations
 ---------------------
 
-[GWSListViewAnimations]
+[GWSListViewAnimations](https://github.com/shareme/GWSListViewAnimations)
 
 List view animations
 
 GWSMaterialCAB
 ---------------
 
-[GWSMaterialCAB]
+[GWSMaterialCAB](https://github.com/shareme/GWSMaterialCAB)
 
 A material contextual action bar
 
@@ -394,7 +394,7 @@ A material contextual action bar
 GWSMaterialCalendarView
 -----------------------
 
-[GWSMaterialCalendarView]
+[GWSMaterialCalendarView](https://github.com/shareme/GWSMaterialCalendarView)
 
 A Material design back port of Android's CalendarView.
 
@@ -409,21 +409,21 @@ Makes building material styled dialogs easier.
 GWSMaterialDrawer
 ------------------
 
-[GWSMaterialDrawer]
+[GWSMaterialDrawer](https://github.com/shareme/GWSmaterialDrawer)
 
 Makes it easier to build materail styled drawers.
 
 GWSMaterialEdit
 ---------------
 
-[GWSMaterialEdit]
+[GWSMaterialEdit](https://github.com/shareme/GWSMaterialEdit)
 
 A material styled edit text view
 
 GWSMaterialMenu
 ---------------
 
-[GWSMaterialMenu]
+[GWSMaterialMenu](https://github.com/shareme/GWSMaterialMenu)
 
 Morphing Android menu, back, dismiss and check buttons
 
@@ -431,35 +431,35 @@ Morphing Android menu, back, dismiss and check buttons
 GWSMaterialPreference
 ---------------------
 
-[GWSMaterialPreference]
+[GWSMaterialPreference](https://github.com/shareme/GWSMaterialPreference)
 
 
 
 GWSMaterialProgressBar
 ----------------------
 
-[GWSMaterialProgressBar]
+[GWSMaterialProgressBar](https://github.com/GWSMaterialProgressBar)
 
 Material design ProgressBar with consistent appearance.
 
 GWSMaterialRangeBar
 -------------------
 
-[GWSMaterialRangeBar]
+[GWSMaterialRangeBar](https://github.com/shareme/GWSmaterailRangeBar)
 
 Material styled rangebar.
 
 GWSMaterialSpinner
 ------------------
 
-[GWSMaterialSpinner]
+[GWSMaterialSpinner](https://github.com/shareme/GWSMaterialSpinner)
 
 This library provides you a Spinner with the Material style.
 
 GWSMultiStateView
 ------------------
 
-[GWSMultiStateView]
+[GWSMultiStateView](https://github.com/shareme/GWSMultiStateView)
 
 Shows loading, error, etc states in a view so that user has some feedback about the progress of the
 application.
