@@ -291,6 +291,12 @@ GWSDroidUtil
 Utility classes that do not fit any other category that get used to reduce boilerplate classes and methods in
 android application.
 
+GWSStateMachine
+---------------
+
+[GWSStateMachine]
+
+Multi-purpose state machine classes in the form of a sueful library.
 
 
 
