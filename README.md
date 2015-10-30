@@ -303,6 +303,16 @@ Multi-purpose state machine classes in the form of a sueful library.
 UI Features Back-ported Android Libraries
 -----------------------------------------
 
+With each major Google UX Design Change(the happen every 18 to 36 months) within the Android Mobile OS and
+Framework platform there emerges a combination of UX work-around elements that allows 3rd-party android
+application developers to get a consistent look and feel across multiple Android OS versions that reaches
+about 95% of the feature-set of the current newest Android OS version. But, most of the 3rd-party back-ported
+libraries are never in a full polished state that you can fully rely upon them. Whereas if one looks at
+the full 'forest' of back-ported libraries and corrects them, and curates them than we get a component of
+a system whereas we always know we can achieve the consisten UX look and feel.
+
+
+
 I created some UI Feature back-ported android libraries that corrected compatibility issues and made
 the libraries more reliable for developers to use including myself. Most them contain both a descriptive
 implementation description in the readme and a demo signed apk app file in the demo folder to try out.
