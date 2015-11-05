@@ -1,4 +1,5 @@
 * [MyGithubProfile](#MyGitHubProfile)
+  * [Your Pain Points](Your Pain Points)
 * [The GrottWorkSpace System](#The GrottWorkSpace System)
   * [The Gradle Build System in the Android Context](#The Gradle Build System in the Android Context)
     * [GWSDroidGradle](#GWSDroidGradle)
@@ -107,6 +108,8 @@ following places:
 
 
 
+
+
 Why portfolio this way?
 
 The biggest part of getting the android UX of an application and the android application design right
@@ -118,6 +121,44 @@ A few portfolio apps only teases you without providing a concrete way to establi
 or android application engineer in fact follows those practices. Now if someone has a system to ensure that
 why not show off that system? Than you would emphatically know, right?
 
+
+Your Pain Points
+-----------------
+
+1. You have trouble finding that one unicorn of android developer that has actual computer science skills
+   as the basis of their computer sciences skills such as mathematics as STEM people pick up new technologies and
+   computer language skills and tools faster than anyone else and tedn to train themselves.
+
+   While at Purdue University at Indianapolis I pursued a STEM intensive set of majors including mathematics.
+   In plain short words that means its easy for me pick up things like RxJava which deals with such math things as
+   monads, etc.
+
+2. You probably have either the iOS developer or a CTO, etc who was an iSO developer walking you into
+   blind spots as far as the UX and application implementations as they let their iOS biases creep in.
+   I am an android application expert and fight for doing it right on android.
+
+   An example is that the Facebook Reactive.js is not yet suitable for android development due to several
+   deep limitations including not being able toback port new UI features so that we get a consistent
+   look and feel and the annoying loosing data in views when the device orientation changes. Hence, my push
+   for using RxJava instead of Facebook's Reactive.
+
+3. Solid java skills prevent problems of varying code quality,etc, etc and I am a former Java Enterprise
+   developer with a solid set of java best practices that act as my anchor to keep me always striving
+   for quality code every day and every week.
+
+4. You are new to being a co-founder and or CTO and probably new to the android OS platform. Why not take advantage
+   and get real useful advice from an expert that you can use over and over again as you fill out your
+   software engineering team?
+
+   [See my Medium article. Why I don't do coffee]()
+
+
+
+
+
+
+
+
 The GrottWorkSpace System
 =========================
 
@@ -125,6 +166,14 @@ The GrottWorkSpace system is collection of manual java and android best practice
 that together form a set of processes that ensure that a quality mobile android java applicattion is
 produced that is easy to test and easy to maintain and update. The following detailed libraries, tools,
 and practices compose of that system.
+
+The reasons for code auditing and cleaning up 3rd-party back-ported android UI libraries
+range from using Engineering best practices to being able to rely upon other libraries to
+having  a need for those libraries to be cleaned up so I can convert them to RxJava use as one cannot use
+libraries that refer to views, fragments , activities and widgets but have to use Rxjava
+style things that have wrapped certain things for full RxJava usage.
+
+
 
 
 
