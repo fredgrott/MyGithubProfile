@@ -1,3 +1,5 @@
+![GrottSpaceLogo](./readme_images/gws_logo.png)
+
 * [MyGithubProfile](#MyGitHubProfile)
   * [Your Pain Points](Your Pain Points)
 * [The GrottWorkSpace System](#The GrottWorkSpace System)
@@ -65,6 +67,7 @@
   * [Best Practices Followed](#Best Practices Followed)
 * [Contacting Me](#Contacting Me)
 
+![icecream](./readme_images/android_ice_cream_sandwich.png)
 MyGithubProfile
 ===============
 
@@ -157,13 +160,13 @@ Your Pain Points
 
 
 
-
+![jelly bean](./readme_images/com-photox-jbhd.png)
 
 The GrottWorkSpace System
 =========================
 
 The GrottWorkSpace system is collection of manual java and android best practices, tools, and libraries
-that together form a set of processes that ensure that a quality mobile android java applicattion is
+that together form a set of processes that ensure that a quality mobile android java application is
 produced that is easy to test and easy to maintain and update. The following detailed libraries, tools,
 and practices compose of that system.
 
@@ -757,13 +760,3 @@ Rules for contacting me:
 If you can follow those rules than you can email me at:
 
 fred DOT grott AT gmail DOT com
-
-
-
-
-
-
-
-
-
-
