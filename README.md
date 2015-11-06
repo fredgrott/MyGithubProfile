@@ -2,6 +2,7 @@
 
 * [MyGithubProfile](#MyGitHubProfile)
   * [Your Pain Points](Your Pain Points)
+  * [App Demos](App Demos)
 * [The GrottWorkSpace System](#The GrottWorkSpace System)
   * [The Gradle Build System in the Android Context](#The Gradle Build System in the Android Context)
     * [GWSDroidGradle](#GWSDroidGradle)
@@ -156,7 +157,14 @@ Your Pain Points
    [See my Medium article. Why I don't do coffee]()
 
 
+App Demos
+---------
 
+If you want to see app demos look at:
+
+[GWSMusiKalOmega targets phones and tablets](https://github.com/shareme/GWSMusiKalOmega)
+
+[GWSMusiKalDelphi targets phones, tablets, watches, auto, and tv](https://github.com/sharemeGWSMusiKalDelphi)
 
 
 
