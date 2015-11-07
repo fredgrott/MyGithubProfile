@@ -700,6 +700,13 @@ Android Open Source Contributions
 I like most android advance application developers contribute to the Android AOSP project and these
 following 3rd-party libraries:
 
+[RxLifecycle](https://github.com/trello/RxLifecycle)
+
+[Assertj for Android](https://github.com/square/assertj-android)
+
+[LogLifecycle](https://github.com/stephanenicolas/loglifecycle)
+
+[Getting things Done-Tiddlywiki](https://github.com/roma0104/gsd5)
 
 
 Best Practices Followed
