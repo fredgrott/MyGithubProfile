@@ -129,32 +129,17 @@ why not show off that system? Than you would emphatically know, right?
 Your Pain Points
 -----------------
 
-1. You have trouble finding that one unicorn of android developer that has actual computer science skills
-   as the basis of their computer sciences skills such as mathematics as STEM people pick up new technologies and
-   computer language skills and tools faster than anyone else and tedn to train themselves.
+1. You want to find a quality android developer with some strong java skills and who has a polished
+   android app development work-flow.
 
-   While at Purdue University at Indianapolis I pursued a STEM intensive set of majors including mathematics.
-   In plain short words that means its easy for me pick up things like RxJava which deals with such math things as
-   monads, etc.
+   I have over 1000 commits during a 2 month-period just to establish a polished android development
+   work-flow including the expert gradle build scripts, library code covering debug helper classes to
+   and UI back-ported features.
 
-2. You probably have either the iOS developer or a CTO, etc who was an iSO developer walking you into
-   blind spots as far as the UX and application implementations as they let their iOS biases creep in.
-   I am an android application expert and fight for doing it right on android.
+2. In sifting through all candidates realize that a senior android developer like me has to sift through all
+   the 'start-up-idiots' and that I do not do coffee but instead do real meal meetings with those that see the value.
 
-   An example is that the Facebook Reactive.js is not yet suitable for android development due to several
-   deep limitations including not being able toback port new UI features so that we get a consistent
-   look and feel and the annoying loosing data in views when the device orientation changes. Hence, my push
-   for using RxJava instead of Facebook's Reactive.
-
-3. Solid java skills prevent problems of varying code quality,etc, etc and I am a former Java Enterprise
-   developer with a solid set of java best practices that act as my anchor to keep me always striving
-   for quality code every day and every week.
-
-4. You are new to being a co-founder and or CTO and probably new to the android OS platform. Why not take advantage
-   and get real useful advice from an expert that you can use over and over again as you fill out your
-   software engineering team?
-
-   [See my Medium article. Why I don't do coffee]()
+   [See my Medium article. Why I don't do coffee](https://medium.com/@fredgrott/chicago-start-ups-i-don-t-do-coffee-d3f1fccb1c7a)
 
 
 App Demos
@@ -197,9 +182,9 @@ The Gradle Build System in the Android Context
 Without a dependable build you cannot as an android application engineer predict milestone builds or
 steps in the development process.
 
-GWSDroidGradle
+GWSJinn
 --------------
-[GWSDroidGradle](https://github.com/shareme/GWSDroidGradle)
+[GWSJinn](https://github.com/shareme/GWSJinn)
 
 This is my android specific gradle set-up that I keep current with the gradle plugins and debug tool
 set up that I use to develop android applications. In the readme you will find a detailed implementation
