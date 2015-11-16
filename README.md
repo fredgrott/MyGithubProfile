@@ -136,10 +136,48 @@ Your Pain Points
    work-flow including the expert gradle build scripts, library code covering debug helper classes to
    and UI back-ported features.
 
-2. In sifting through all candidates realize that a senior android developer like me has to sift through all
-   the 'start-up-idiots' and that I do not do coffee but instead do real meal meetings with those that see the value.
+2. Specific uses case where you would need an expert android developer that has code-audited libraries that
+   they rely upon and developed some developer tools to ease development improve the development work-flow
+   including debugging an in-progress-UI design range from a mobile development development service firm to
+   an actual start-up building their very first android application.
+
+3. Assuming that you are not Google or Apple, which both TRAIN their middle managers in how to interview and
+   analyze interviews of both developers and designers, you are probably not focusing on training yourself
+   in how to interview a developer and or designer and you are not focusing on the heavy data analysis to remove
+   all the noise from the interview input you are receiving. It is somewhat important to have a meal-meeting
+   to get that insight and guide in how to do exactly that from an android developer expert. My example, is that since
+   the previous start-ups I have worked for have made all the mobile mistakes by not listening to me
+   I can inform yo on what to avoid and inform you both on the results of not avoiding such a blind-spot and
+   the exact good things that result on avoiding such blind-spots.
+
+   The ROI you have in your mind is predicated by the future mobile dev efforts avoiding the blind-spots
+   both start-ups and firms new to mobile and android make.
+
+4. My ROI proposition to you is that I have some experience that has helped me create new tools and processes
+   that allow me to in an agile way develop an android application in a fast manner and I have experience in
+   experiencing all the blind-spots a start-up or firm new to mobile and android can make and so I can assist
+   you and your firm in avoiding such blind-spots.
+
+   Because that ROI is more valuable than the borken HR-hiring process that you mightt have thought about using
+   I only do meal-meetings at my local eating establishments.
 
    [See my Medium article. Why I don't do coffee](https://medium.com/@fredgrott/chicago-start-ups-i-don-t-do-coffee-d3f1fccb1c7a)
+
+   While some might say avoid at first building for more than one mobile platform, there is actually some useful
+   data patterns that can giver you some goal-posts on your decision to build for more than one mobile platform or not
+   decision rather than some brief-sentence and thus really steer towards an effective right decision by
+   removing the noise from the data, etc.
+
+   And that is just one of the high-impact ROI items as there is also the developer decisions that I have
+   to make in developing an android application concerning OS version fragmentation, etc that impact the
+   design palette that I may have to wowkr with in implementing an android user-interface application design.
+   Certain choices give me a more fuller palette as far as the UI design I can come up with and others are more
+   limiting in design.
+
+   It is your JOB as start-up CO-FOUNDER to get that valuable information and that is really what the
+   recruiting expert mobile developers to interview should be about. You need that expert advice  in order to
+   understand hwo to transform your mobile visions into concrete ROI. Do not accept an outsider or someone
+   else to do that important information gathering job for you.
 
 
 App Demos
@@ -189,6 +227,8 @@ GWSJinn
 This is my android specific gradle set-up that I keep current with the gradle plugins and debug tool
 set up that I use to develop android applications. In the readme you will find a detailed implementation
 description with the tools I use.
+
+
 
 Test Libraries of Mine Used
 ---------------------------
