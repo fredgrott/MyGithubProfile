@@ -129,6 +129,12 @@ why not show off that system? Than you would emphatically know, right?
 Your Pain Points
 -----------------
 
+Keep in mind that the best fit is if you are a Chicago start-up willing to allow a remote-telecommute
+or providing resources to reduce a commute and building the android edition of yor mobile application for
+the very first time. And you should be willing to set-aside the HR-hiring process as its completely broken and I refuse to
+go through such a broken process as its somewhat akin to banging one's head against a brick wall until
+bleeding(not very fun).
+
 1. You want to find a quality android developer with some strong java skills and who has a polished
    android app development work-flow.
 
@@ -183,7 +189,7 @@ Your Pain Points
 App Demos
 ---------
 
-If you want to see app demos look at:
+Apps in progress:
 
 [GWSMusiKalOmega targets phones and tablets](https://github.com/shareme/GWSMusiKalOmega)
 
@@ -207,6 +213,9 @@ having  a need for those libraries to be cleaned up so I can convert them to RxJ
 libraries that refer to views, fragments , activities and widgets but have to use Rxjava
 style things that have wrapped certain things for full RxJava usage.
 
+Real professional mobile application developers code audit the potential libraries they want to use and
+yes even when the library is from a trusted source like Google. Its one of the tools we have in determining
+an excellent android developer from a lack-luster average android developer.
 
 
 
