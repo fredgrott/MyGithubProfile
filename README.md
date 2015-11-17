@@ -147,6 +147,7 @@ bleeding(not very fun).
    including debugging an in-progress-UI design range from a mobile development development service firm to
    an actual start-up building their very first android application.
 
+
 3. Assuming that you are not Google or Apple, which both TRAIN their middle managers in how to interview and
    analyze interviews of both developers and designers, you are probably not focusing on training yourself
    in how to interview a developer and or designer and you are not focusing on the heavy data analysis to remove
@@ -176,7 +177,7 @@ bleeding(not very fun).
 
    And that is just one of the high-impact ROI items as there is also the developer decisions that I have
    to make in developing an android application concerning OS version fragmentation, etc that impact the
-   design palette that I may have to wowkr with in implementing an android user-interface application design.
+   design palette that I may have to work with in implementing an android user-interface application design.
    Certain choices give me a more fuller palette as far as the UI design I can come up with and others are more
    limiting in design.
 
@@ -185,6 +186,12 @@ bleeding(not very fun).
    understand hwo to transform your mobile visions into concrete ROI. Do not accept an outsider or someone
    else to do that important information gathering job for you.
 
+   You as a co-founder need to ask this question of your staff, how is it that I can in  2 hours complete
+   a code audit of potential android developers code and determine which is the best android developer
+   and yet you are still using a broken process that wil in months not produce effective results of picking an
+   android developer? That is about like expecting to get rich betting on the lottery.
+
+   Do you not deserve to use a better way?
 
 App Demos
 ---------
