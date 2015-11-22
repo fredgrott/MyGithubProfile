@@ -3,6 +3,7 @@
 * [MyGithubProfile](#MyGitHubProfile)
   * [Your Pain Points](Your Pain Points)
   * [App Demos](App Demos)
+  * [Android Application Development Articles](Android Application Development Articles)
 * [The GrottWorkSpace System](#The GrottWorkSpace System)
   * [The Gradle Build System in the Android Context](#The Gradle Build System in the Android Context)
     * [GWSDroidGradle](#GWSDroidGradle)
@@ -201,6 +202,14 @@ Apps in progress:
 [GWSMusiKalOmega targets phones and tablets](https://github.com/shareme/GWSMusiKalOmega)
 
 [GWSMusiKalDelphi targets phones, tablets, watches, auto, and tv](https://github.com/sharemeGWSMusiKalDelphi)
+
+Android Application Development Articles
+----------------------------------------
+
+Most of my android development articles can be found on Medium:
+
+[Medium Articles](https://medium.com/@fredgrott/)
+
 
 
 
@@ -793,7 +802,8 @@ Rules for contacting me:
 
 1. Not a recruiter but a start-up founder or co-founder
 
-2. If start-up than its seed capital 'run-way' is fully funded at $1 Million or more.
+2. If start-up than its seed capital 'run-way' is fully funded at $1 Million or more with the best
+   fit being that you are as a start-up building your very first android edition of your application.
 
 3. If a Chicago start-up than willing to travel to my NorthWest Indiana location and discuss over a
    paid subway meal and discuss a relocation.
