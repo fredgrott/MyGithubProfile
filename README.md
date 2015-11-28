@@ -1,83 +1,30 @@
 ![GrottSpaceLogo](./readme_images/gws_logo.png)
 
-You can either hold-out 8 to 16 months to find that one android developer that has years of experience 
-and discover that their words on the resume are somewhat different than a software engineer that follows
-best practices because those best practices deliver finished applications on time and on budget. Not 
-to mention that those who develop android applications as a vocation are somewhat advocates for android 
-device users getting the best UX/UI and the best android application experience possible.
+A 5 years experience android developer resume has no direct correlation to quality android code or a 
+quality android application which I just confirmed by a massive code audit of 50 libraries and several 
+android applications. Yes you can hold out for that one 5 year experience android developer and can not 
+only be dissatisfied in the quality of android code and the quality of the android application and to 
+top things off that developer will have issues with having a start-up almost no-structure in that they are not 
+accustom to managing their own development process or coming up with new development processes.
 
-Or you can choose a former java enterprise developer who happens to develop android applications and is 
-an android device user advocate and who lives for the non-structured start-up and the opportunity to put 
-in infrastructure in terms of processes that deliver a polished android UX and application experience.
+Or you can engage the mind that you have and get a real android developer that is not hung up on the words 
+on a resume but looks at stuff that needs doing and determines how to get it accomplished.  In fact you 
+can see on my github profile:
 
-* [MyGithubProfile](#MyGitHubProfile)
-  * [Your Pain Points](Your Pain Points)
-  * [App Demos](App Demos)
-  * [Android Application Development Articles](Android Application Development Articles)
-* [The GrottWorkSpace System](#The GrottWorkSpace System)
-  * [The Gradle Build System in the Android Context](#The Gradle Build System in the Android Context)
-    * [GWSDroidGradle](#GWSDroidGradle)
-  * [Test Libraries of Mine Used](#Test Libraries of Mine Used)
-    * [GWSWakeUp](#GWSWakeUp)
-    * [GWSDroidViewServer](#GWSDroidViewServer)
-    * [GWSDroidInsUtil](#GWSDroidInsUtil)
-  * [Common App Libraries](#Common App Libraries)
-    * [GWSAndroidUUID](#GWSAndroidUUID)
-    * [GWSCache](#GWSCache)
-    * [GWSColours](#GWSColours)
-    * [GWSCacheFragment](#GWSCacheFragment)
-    * [GWSEasing](#GWSEasing)
-    * [GWSIndiaInk](#GWSIndiaInk)
-    * [GWSSpannable](#GWSSpannable)
-    * [GWSSystemUI](#GWSSystemUI)
-    * [GWSOttoUtils](#GWSOttoUtils)
-    * [GWSEula](#GWSEula)
-    * [GWSLicenseThis](#GWSLicenseThis)
-    * [GWSVMUtils](#GWSVMUtils)
-    * [GWSDroidUtil](#GWSDroidUtil)
-  * [UI Features Back-ported Android Libraries](#UI Features Back-ported Android Libraries)
-    * [GWSArcAnimations](#GWSArcAnimations)
-    * [GWSArcLayout](#GWSArcLayout)
-    * [GWSBetterRelativeLayout](#GWSBetterRelativeLayout)
-    * [GWSBlurringView](#GWSBlurringView)
-    * [GWSChips](#GWSChips)
-    * [GWSDiscreteSeekBar](#GWSDiscreteSeekBar)
-    * [GWSDiscrollView](#GWSDiscrollView)
-    * [GWSKenBurnsView](#GWSKenBurnsView)
-    * [GWSLDialogs](#GWSLDialogs)
-    * [GWSListViewAnimations](#GWSListViewAnimations)
-    * [GWSMaterialCAB](#GWSMaterialCAB)
-    * [GWSMaterialCalendarView](#GWSMaterialCalendarView)
-    * [GWSMaterialDialogs](#GWSMaterialDialogs)
-    * [GWSMaterialDrawer](#GWSMaterialDrawer)
-    * [GWSMaterialEdit](#GWSMaterialEdit)
-    * [GWSMaterialMenu](#GWSMaterialMenu)
-    * [GWSMaterialPreference](#GWSMaterialPreference)
-    * [GWSMaterialProgressBar](#GWSMaterialProgressBar)
-    * [GWSMaterialRangeBar](#GWSMaterialRangeBar)
-    * [GWSMaterialSpinner](#GWSMaterialSpinner)
-    * [GWSMultiStateView](#GWSMultiStateView)
-    * [GWSObservableScroll](#GWSObservableScroll)
-    * [GWSPagerSlidingTabStrip](#GWSPagerSlidingTabStrip)
-    * [GWSPanningView](#GWSPanningView)
-    * [GWSParallelMotion](#GWSParallelMotion)
-    * [GWSReveal](#GWSReveal)
-    * [GWSRoundedImageView](#GWSRoundedImageView)
-    * [GWSShimmer](#GWSShimmer)
-    * [GWSStickyHeadersRV](#GWSStickyHeadersRV)
-    * [GWSStickyListHeaders](#GWSStickyListHeaders)
-    * [GWSSVGProgressView](#GWSSVGProgressView)
-    * [GWSSwipeToDismiss](#GWSSwipeToDismiss)
-    * [GWSTiltEffect](#GWSTiltEffect)
-    * [GWSTwoWayView](#GWSTwoWayView)
-    * [GWSVelocityScroller](#GWSVelocityScroller)
-    * [GWSVelocityViewPager](#GWSVelocityViewPager)
-    * [GWSViewPagerTrans](#GWSViewPagerTrans)
-    * [GWSZDepthShadow](#GWSZDepthShadow)
-  * [Other 3rd-party Tools and Libraries Used](#Other 3rd-party Tools and Libraries Used)
-  * [Android Open Source Contributions](#Android Open Source Contributions)
-  * [Best Practices Followed](#Best Practices Followed)
-* [Contacting Me](#Contacting Me)
+[github profile](https://github.com/shareme)
+
+a strong correlation of shipping product and doing daily builds and weekly milestones. There is also 
+a strong correlation to my android application software development expertise claim in the form of 
+answering other android developer's questions at stackoverflow:
+
+
+[StackOverflow Profile](http://stackoverflow.com/users/237740/fred-grott)
+
+I have the same high 17% top ranking as android developers at ShiftGig, Groupon, SpotHero, etc.
+
+
+
+
 
 ![icecream](./readme_images/android_ice_cream_sandwich.png)
 MyGithubProfile
