@@ -1,5 +1,15 @@
 ![GrottSpaceLogo](./readme_images/gws_logo.png)
 
+You can either hold-out 8 to 16 months to find that one android developer that has years of experience 
+and discover that their words on the resume are somewhat different than a software engineer that follows
+best practices because those best practices deliver finished applications on time and on budget. Not 
+to mention that those who develop android applications as a vocation are somewhat advocates for android 
+device users getting the best UX/UI and the best android application experience possible.
+
+Or you can choose a former java enterprise developer who happens to develop android applications and is 
+an android device user advocate and who lives for the non-structured start-up and the opportunity to put 
+in infrastructure in terms of processes that deliver a polished android UX and application experience.
+
 * [MyGithubProfile](#MyGitHubProfile)
   * [Your Pain Points](Your Pain Points)
   * [App Demos](App Demos)
