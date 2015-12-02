@@ -169,7 +169,7 @@ brand new android application allows your start-up to get several steps closer t
 vision that you have and are building.
 
 
-[GWS readme](link to it)
+[GWS BestPractices and GWS System](link to it)
 
 [GWS Libraries](link to it)
 
