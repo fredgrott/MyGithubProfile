@@ -15,10 +15,31 @@
 * Remote Code Development means that I have more time to do Android Application end user analysis and
   use that insights to evolve the UI of the android application.
 
+# Other Services
+
+* Spec-And-ROI Analysis
+
+  You as a start-up or enterprise may not have the resources to determine the core features of that first android
+  application. I do spec-and-roi consultations on picky-ask basis. If that is your need than you should
+  understand that due to the value of consultation that you might want that I have to ask for something
+  in return. ASk about it, obviously those who answer my direct questions with direct answers get more
+  attention though.
+
+* Android Application Development Best Practices Consultation
+
+  You may as an organization have the need for a short-term intensive course or courses in Android Application
+  Development Best Practices. If so you should ask.
+
+  I also do auditing of the android application development set of processes your developers are using
+  and can offer paid advice on what changes need to be made to reach the short-term and long-range goals of
+  a better system of android application development. Obviously, ask.
+
 # How To Contact Me
 
 * No inside or outside recruiters
 * Must be a start-up co-founder, either CEO or CTO
+* If NOT Start-UP than must allow remote coding and be open to the reality of freelance rates being double
+  the employee-hourly rate. If so, you should be the client partner or CTO.
 * Must allow remote coding, if no and want me to relocate than that requires you to meet at my location
   over a paid meal.
 * If local to Chicago, must agree to meet over a paid meal at my location
