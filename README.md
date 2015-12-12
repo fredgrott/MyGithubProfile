@@ -48,6 +48,7 @@ If you meet those conditions than by all means
 
 fred DOT grott AT gmail DOT com
 
+And please, remember no recruiters
 
 [GWS BestPractices and GWS System](./readme_details/gws)
 
