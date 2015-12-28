@@ -120,6 +120,11 @@ Best Practices, Processes, and development technology get combined on top of thi
   that can be combined in modular ways similar to how you might have built houses and cars out of Legos
   when you were a child.
 
+* Agile Software Engineering Methods ToolBox
+
+  I use the term tool-box as there are benefits and cons to using each tool in this tool box and thus
+  I am dynamically choosing which set of tools in are most apt to be correctly useful to solving the
+  software creation process at-hand.
 
 
 That in a-nut-shell is the full GrottWorkShop System of Android Application development.
