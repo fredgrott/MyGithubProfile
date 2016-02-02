@@ -9,6 +9,69 @@ novel that is our life. A radical concept, if you [LAUNCH THEIR LIVES](./readme_
 mobile application. Is that not radical, create their product instead of yours and have the mobile application users become part of the marketing conversation about that
 mobile application because its launching that novel that is their life?
 
+# Follow Me
+
+### Code Repos
+
+[Github](https://github.com/shareme)
+[Bitbucket](https://bitbucket.org/fredgrott)
+
+### Social
+
+[Google+](https://plus.google.com/u/0/+FredGrott/about)
+[Twitter](https://twitter.com/fredgrott)
+[Facebook](http://www.facebook.com/fredgrott)
+[Reddit](http://www.reddit.com/user/fredgrott)
+
+### Bookmarks
+
+[Delicious](https://delicious.com/shareme)
+
+### Design
+
+[DeviantArt](http://shareme.deviantart.com)
+[BeHance](https://www.behance.net/gwsfredgrott)
+[Dribbble](https://dribbble.com/FredGrott)
+
+### Start-Ups
+
+[Angel List](https://angel.co/fred-grott)
+[BuiltInChicago](https://www.builtinchicago.org/member/fred-grott)
+[Hacker News](https://news.ycombinator.com/user?id=fredgrott)
+[FounderDating](http://members.founderdating.com/profile/6572)
+
+### Questions
+
+[StackOverflow](http://stackoverflow/com/users/237740/fred-grott)
+[Quora](http://www.quora.com/Fred-Grott)
+
+### CV
+
+[LinkedIN](http://www.linkedin.com/in/shareme/en)
+[Xing](http://www.xing.coom/profile/Fred_Grott?sc_o=mxb_p)
+
+### Slides
+
+[SlideShare](http://www.slideshare.net/shareme)
+[SpeakerDeck](https://speakerdeck.com/fredgrott)
+
+### Articles
+
+[Medium](https://medium.com/@fredgrott)
+
+### Blogging
+
+[Blogger](http://grottworkshop.blogspot.com)
+
+### Video
+
+[YouTube](https://www.youtube.com/c/FredGrott?gvnc=1)
+
+
+
+
+
+
 # My Android Java Application Development Thesis
 
 * Code Quality Does Not Correlate With Resume, recently I did a code audit of some
