@@ -1,4 +1,4 @@
-![GrottSpaceLogo](./readme_images/gws_logo.png)
+![GrottSpaceLogo](/readme_images/grottworkshop_logo_header.png)
 
 I cause trouble, I do not follow your rules, and I innovate and lead. Its no longer
 the dawn of the mobile age and every mobile application intensively competes for
@@ -8,6 +8,14 @@ We are all sneezers about our own life and the tools that allow us to live that
 novel that is our life. A radical concept, if you [LAUNCH THEIR LIVES](./readme_details/launch) with your mobile application, than you mobile application users become that conversation advertising your
 mobile application. Is that not radical, create their product instead of yours and have the mobile application users become part of the marketing conversation about that
 mobile application because its launching that novel that is their life?
+
+# Books Authored by Myself
+
+[TheAndroidWay--in progress](https://github.com/shareme/TheAndroidWay)
+
+# Sample Apps
+
+[GWSMaterialDesignPortfolioApps](https://github.com/shareme/GWSMaterialDesignPortfolioApps)
 
 # Follow Me
 
