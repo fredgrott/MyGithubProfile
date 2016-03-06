@@ -21,6 +21,13 @@ mobile application because its launching that novel that is their life?
 
 [GrottWorkShop Youtube Channel](https://www.youtube.com/channel/UCRQadYlHQ8DKRQ_WwUrfZ_w)
 
+# Top Android Application Development Articles
+
+[Do Not Force Android Users Away Handle Your Exceptions](https://medium.com/@fredgrott/do-not-force-android-users-away-handle-your-exceptions-af01304e58ce#.wrthpb8fd)
+
+[Android Secure Those 3rd Party Api Keys](https://medium.com/@fredgrott/android-secure-those-3rd-party-api-keys-f33cf1a1f465#.z06xfbpfd
+)
+
 # Follow Me
 
 ### Code Repos
