@@ -1,4 +1,4 @@
-![GrottSpaceLogo](/readme_images/grottworkshop_logo_header.png)
+![GrottSpaceLogo](/readme_images/gws_github.header.png)
 
 I cause trouble, I do not follow your rules, and I innovate and lead. Its no longer
 the dawn of the mobile age and every mobile application intensively competes for
@@ -16,6 +16,10 @@ mobile application because its launching that novel that is their life?
 # Sample Apps
 
 [GWSMaterialDesignPortfolioApps](https://github.com/shareme/GWSMaterialDesignPortfolioApps)
+
+# Vids of Library And App Demos
+
+[GrottWorkShop Youtube Channel](https://www.youtube.com/channel/UCRQadYlHQ8DKRQ_WwUrfZ_w)
 
 # Follow Me
 
@@ -73,7 +77,7 @@ mobile application because its launching that novel that is their life?
 
 ### Video
 
-[YouTube](https://www.youtube.com/c/FredGrott?gvnc=1)
+[YouTube](https://www.youtube.com/channel/UCRQadYlHQ8DKRQ_WwUrfZ_w)
 
 
 
