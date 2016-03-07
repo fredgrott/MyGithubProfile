@@ -1,4 +1,4 @@
-![GrottSpaceLogo](/readme_images/gws_github.header.png)
+![GWS Logo](/readme_images/gws_github.header.png)
 
 I cause trouble, I do not follow your rules, and I innovate and lead. Its no longer
 the dawn of the mobile age and every mobile application intensively competes for
@@ -19,6 +19,8 @@ mobile application because its launching that novel that is their life?
 
 # Vids of Library And App Demos
 
+[GWSSVGProgress Library Vid]()
+
 [GrottWorkShop Youtube Channel](https://www.youtube.com/channel/UCRQadYlHQ8DKRQ_WwUrfZ_w)
 
 # Top Android Application Development Articles
@@ -27,6 +29,10 @@ mobile application because its launching that novel that is their life?
 
 [Android Secure Those 3rd Party Api Keys](https://medium.com/@fredgrott/android-secure-those-3rd-party-api-keys-f33cf1a1f465#.z06xfbpfd
 )
+
+# Top Android Application Development Slides
+
+
 
 # Follow Me
 
@@ -145,8 +151,4 @@ should match up with that requirement.
 
 
 
-[GWS Slides](./readme_details/slides)
 
-[GWS Demos](./readme_details/demos)
-
-[GWS Articles](./readme_details/articles)
