@@ -28,7 +28,7 @@ whatever guideline or rule that is the obstacle to discover something new and wo
 start-up environments that have the freedom to allow me to do that.
 
 
-# Books Authored by Myself
+# Books Authored by Myself-In Progress
 
 [TheAndroidWay--in progress](https://github.com/shareme/TheAndroidWay)
 
@@ -51,7 +51,8 @@ start-up environments that have the freedom to allow me to do that.
 
 # Top Android Application Development Slides
 
-
+[SlideShare](http://www.slideshare.net/shareme)
+[SpeakerDeck](https://speakerdeck.com/fredgrott)
 
 # Follow Me
 
