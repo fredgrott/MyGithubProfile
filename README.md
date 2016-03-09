@@ -1,13 +1,32 @@
 ![GWS Logo](/readme_images/gws_github.header.png)
 
-I cause trouble, I do not follow your rules, and I innovate and lead. Its no longer
-the dawn of the mobile age and every mobile application intensively competes for
-some type of mobile device attention.
+I am one of the unofficial Google Developer Experts and my focus happens to be
+Android Application Software Engineering from the developer work-flow including the tools use to
+build the app not limited to the gradle scripts, plugins, IDE plugins all the way to new
+software engineering techniques and libraries. I have watched start-up mistakes crash and burn
+from the vantage-point of having my hands tied behind my back and thus prefer a start-up where
+by advice and counsel is actually respected and acted upon as it makes for a successful adventure.
 
-We are all sneezers about our own life and the tools that allow us to live that
-novel that is our life. A radical concept, if you [LAUNCH THEIR LIVES](./readme_details/launch) with your mobile application, than you mobile application users become that conversation advertising your
-mobile application. Is that not radical, create their product instead of yours and have the mobile application users become part of the marketing conversation about that
-mobile application because its launching that novel that is their life?
+I do not play telephone games of have someone who does not know try to translate what the
+co-founder and CTO want as it is more effective to just talk to the CTO and co-founder in the
+first place. Besides since I am evaluating the start-up to see if the can get an attention and
+an audience I actually need to talk to the co-founders and CTO to be able to make that determination.
+
+My first question to you will be are you funded and I prefer to verify that before we continue. My
+second question will concern ROI in the form of is there a business model of who the start-up will make money.
+My third question will be how many applicants as I do not enter lottery games and thus if the
+answer is above 10 than I will decline to proceed.
+
+Obviously, there are links below that can be used to verify my Android Application Software Expertise.
+Its in your best interest to make that attempt and to ask me questions rather than depend on a
+recruiter to fuck it up as you always are paying through-the-nose to train and educate the recruiter
+and most often its at the very high premium price, something start-ups have no business doing in the
+first place.
+
+Warning, I have found that innovations come from having enough trust in my expertise to let me break
+whatever guideline or rule that is the obstacle to discover something new and worthwhile. I prefer
+start-up environments that havve the freedom to allow me to do that.
+
 
 # Books Authored by Myself
 
@@ -36,10 +55,13 @@ mobile application because its launching that novel that is their life?
 
 # Follow Me
 
-### Code Repos
+### Code
 
 [Github](https://github.com/shareme)
 [Bitbucket](https://bitbucket.org/fredgrott)
+[SameBug](https://samebug.io/user/259/fredgrott)
+[GeekList](https://git.geekli.st/u/fredgrott)
+[My Gists](https://gist.github.com/shareme)
 
 ### Social
 
@@ -47,6 +69,7 @@ mobile application because its launching that novel that is their life?
 [Twitter](https://twitter.com/fredgrott)
 [Facebook](http://www.facebook.com/fredgrott)
 [Reddit](http://www.reddit.com/user/fredgrott)
+[Pinterest](https://www.pinterest.com/fredgrott/
 
 ### Bookmarks
 
@@ -90,7 +113,7 @@ mobile application because its launching that novel that is their life?
 
 ### Video
 
-[YouTube](https://www.youtube.com/channel/UCRQadYlHQ8DKRQ_WwUrfZ_w)
+[YouTube Channel](https://www.youtube.com/channel/UCRQadYlHQ8DKRQ_WwUrfZ_w)
 
 
 
