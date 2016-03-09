@@ -7,7 +7,7 @@ software engineering techniques and libraries. I have watched start-up mistakes 
 from the vantage-point of having my hands tied behind my back and thus prefer a start-up where
 by advice and counsel is actually respected and acted upon as it makes for a successful adventure.
 
-I do not play telephone games of have someone who does not know try to translate what the
+I do not play telephone games of having someone who does not know try to translate what the
 co-founder and CTO want as it is more effective to just talk to the CTO and co-founder in the
 first place. Besides since I am evaluating the start-up to see if the can get an attention and
 an audience I actually need to talk to the co-founders and CTO to be able to make that determination.
@@ -25,7 +25,7 @@ first place.
 
 Warning, I have found that innovations come from having enough trust in my expertise to let me break
 whatever guideline or rule that is the obstacle to discover something new and worthwhile. I prefer
-start-up environments that havve the freedom to allow me to do that.
+start-up environments that have the freedom to allow me to do that.
 
 
 # Books Authored by Myself
