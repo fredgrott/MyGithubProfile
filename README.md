@@ -34,11 +34,31 @@ start-up environments that have the freedom to allow me to do that.
 
 # Sample Apps
 
-[GWSMaterialDesignPortfolioApps](https://github.com/shareme/GWSMaterialDesignPortfolioApps)
 
-# Vids of Library And App Demos
 
-[GWSSVGProgress Library Vid]()
+## Vids of Library  App Demos
+
+[![GWSArchLayout Demo](/readme_images/gwsarchlayout_demo.png)](https://www.youtube.com/watch?v=x4Kgd675a4w)
+
+[![GWSBetterRelativeLayout Demo](/readme_images/gwsbetterrelatyivelayout_demo.png)](https://www.youtube.com/watch?v=yiesWElanm0)
+
+[![GWSDiscreteSeekBar Demo](/readme_images/gwsdiscreteseekbar_demo.png)](https://www.youtube.com/watch?v=9t3RpmdNifY)
+
+[![GWSDiscrollView Demo](/readme_images/gwsdiscrollview_demo.png)](https://www.youtube.com/watch?v=vPqHhw_aU1M)
+
+[![GWSKenBurnsView Demo](/readme_images/gwskenburnsview_demo.png)](https://www.youtube.com/watch?v=UYWlPtlLUDo)
+
+[![GWSMaterialCAB Demo](/readme_images/gwsmaterialcab_demo.png)](https://www.youtube.com/watch?v=4tRDEyAz-1c)
+
+[![GWSMaterialProgressBar Demo](/readme_images/gwsmaterialprogressbar_demo.png)](https://www.youtube.com/watch?v=R8v7fj-b2pY)
+
+[![GWSMaterialRangeBar Demo](/readme_images/gwsmaterialrangebar_demo.png)](https://www.youtube.com/watch?v=ak2Rt4ZeRa0)
+
+[![GWSReveal Demo](/readme_images/gwsreveal_demo.png)](https://www.youtube.com/watch?v=xfTO4mi3kEY)
+
+[![GWSSVGProgressView Demo](/readme_images/gwssvgprogressview_demo.png)](https://www.youtube.com/watch?v=At7ShqDxhWI)
+
+
 
 [GrottWorkShop Youtube Channel](https://www.youtube.com/channel/UCRQadYlHQ8DKRQ_WwUrfZ_w)
 
@@ -48,6 +68,23 @@ start-up environments that have the freedom to allow me to do that.
 
 [Android Secure Those 3rd Party Api Keys](https://medium.com/@fredgrott/android-secure-those-3rd-party-api-keys-f33cf1a1f465#.z06xfbpfd
 )
+
+[Chase Those Android App Pirate Vampires Away With Garlic](https://medium.com/@fredgrott/chase-those-android-app-pirate-vampires-away-with-garlic-b016ed61b5ff#.jf5wwbu6b)
+
+[Speed Inflate those Custom Views](https://medium.com/@fredgrott/speed-inflate-those-custom-views-2a405107f4a2#.nc9hdmu6f)
+
+[Build Your App Audience](https://medium.com/@fredgrott/build-your-app-audience-932a72d8df92#.zfelz05s5)
+
+[Android Universal User ID For Android Freaks Everywhere](https://medium.com/@fredgrott/android-universal-user-id-for-android-freaks-everywhere-98b4467d1580#.28r71gojw)
+
+[GitHashes For Android Freaks](https://medium.com/@fredgrott/githashses-for-android-freaks-76013ff4b5da#.szg3qog5u)
+
+[Material Design Missing Colors](https://medium.com/@fredgrott/material-design-missing-colors-28a9b8d4e80f#.qr0nivjbr)
+
+[State Singletons For Fun and Profit](https://medium.com/@fredgrott/state-singletons-for-fun-and-profit-ad193578c9f2#.ccsvoog3g)
+
+
+
 
 # Top Android Application Development Slides
 
