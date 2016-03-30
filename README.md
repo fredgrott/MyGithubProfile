@@ -1,4 +1,4 @@
-![GWS Logo](/readme_images/gws_github.header.png)
+![GWS Logo](/readme_images/gws_github_header.png)
 
 I am one of the unofficial Google Developer Experts and my focus happens to be
 Android Application Software Engineering from the developer work-flow including the tools use to
